@@ -1,10 +1,3 @@
-/**
-* Template Name: FlexStart
-* Updated: Mar 10 2024 with Bootstrap v5.3.3
-* Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 (function() {
   "use strict";
 
